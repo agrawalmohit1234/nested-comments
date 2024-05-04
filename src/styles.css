@@ -1,0 +1,40 @@
+.comment {
+  background-color: #eea782;
+  padding: 8px;
+  margin-bottom: 6px;
+}
+
+.commentBtn {
+  margin-left: 4px;
+  background-color: #8293ee;
+  padding: 4px;
+  border: none;
+  cursor: pointer;
+  font-family: sans-serif;
+  font-weight: 550;
+}
+
+.editComment {
+  background-color: #eea782;
+  padding: 8px;
+  margin-bottom: 6px;
+}
+
+.input {
+  padding: 3px;
+}
+
+.commentValue {
+  margin-bottom: 6px;
+  padding: 5px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.likes {
+  font-family: sans-serif;
+  font-weight: 700;
+  color: greenyellow;
+  padding: 4px;
+  margin: 4px;
+}
